@@ -104,6 +104,7 @@ KarmaFund is a simple Ethereum smart contract for community-driven micro-grants.
 
 ---
 Transaction hash: (on Remix/Injected Web3 or Testnet):0xa5d7548cac1dc6f50a0f5a3f6f7cc81c644f01f1dd8d41b1e63594070833d62c
+Contract Address: 0x643f833fb4f30ffc55958e736ef671de6036b0de
 
 ![Screenshot 2025-05-26 144149](https://github.com/user-attachments/assets/4bd297a3-7336-4f6d-89ef-fd536744af0e)
 
