@@ -1,5 +1,3 @@
-# KarmaFund
-
 KarmaFund is a simple Ethereum smart contract for community-driven micro-grants. Contributors pool ETH into the fund, submit proposals for who should receive the money, and vote on the best proposal. The winning proposal receives all the funds transparently and securely on-chain.
 
 ---
@@ -105,6 +103,9 @@ KarmaFund is a simple Ethereum smart contract for community-driven micro-grants.
 - 🔁 **Vote Change**: Allow contributors to change their vote before voting ends.
 
 ---
+Transaction hash: (on Remix/Injected Web3 or Testnet):0xa5d7548cac1dc6f50a0f5a3f6f7cc81c644f01f1dd8d41b1e63594070833d62c
+
+![Screenshot 2025-05-26 144149](https://github.com/user-attachments/assets/4bd297a3-7336-4f6d-89ef-fd536744af0e)
 
 ## License
 
